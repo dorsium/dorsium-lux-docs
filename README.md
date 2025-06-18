@@ -1,5 +1,7 @@
 # Dorsium Lux Documentation
 
+![](https://img.shields.io/badge/AI%20Entity-Dorsium%20Lux-orange.svg)
+
 This repository contains the public whitepaper and behavioral definition of **Dorsium Lux**,  
 the AI strategist deployed on the Dorsium blockchain.
 
